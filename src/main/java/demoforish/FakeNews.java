@@ -2,7 +2,18 @@ package demoforish;
 
 public class FakeNews {
 
+
+    //do not code above here
+
     public static void main(String[] args) {
-        System.out.println("we gucci now..gang gang !!!!");
+        //create  avariable
+        int x = 12;
+        System.out.println(x);
+
+
+
+        //do not code below here
+
     }
+
 }
